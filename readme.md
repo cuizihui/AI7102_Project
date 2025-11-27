@@ -48,3 +48,5 @@ This will generate bounded video sequences using our zero-shot diffusion pipelin
 > Part of our implementation references the official ViBiDSampler baseline.
 You can find the source here: 👉 **[https://github.com/vibidsampler/vibid](https://github.com/vibidsampler/vibid)**
 
+### Dataset
+Datasets used in our experiments: [DAVIS](https://davischallenge.org/) and [Pexels](https://www.pexels.com/videos/).
